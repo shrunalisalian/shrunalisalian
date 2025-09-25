@@ -11,7 +11,6 @@ Passionate about **deep learning, optimization, and assistive technologies**, wi
 - 💼 [LinkedIn](https://www.linkedin.com/in/shrunali-salian/)  
 - 🌐 [Portfolio](https://portfolio-shrunali-suresh-salians-projects.vercel.app)  
 - 📖 [Medium Blog](https://medium.com/@shrunalisalian97)  
-- 💻 [GitHub](https://github.com/shrunalisalian)  
 - 🧩 [LeetCode](https://leetcode.com/u/shrunali18/)  
 
 ---
