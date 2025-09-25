@@ -15,13 +15,6 @@ Passionate about **deep learning, optimization, and assistive technologies**, wi
 - 🧩 [LeetCode](https://leetcode.com/u/shrunali18/)  
 
 ---
-## 🏆 LeetCode Achievements
-
-[![LeetCode badge](https://img.shields.io/badge/LeetCode-581%20Solved-brightgreen?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/shrunali18/)  
-[![100 Days Badge](https://img.shields.io/badge/100%20Days%20Badge-2025-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shrunali18/)  
-[![LeetCode Rank](https://img.shields.io/badge/Rank-114,982-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/shrunali18/)
-
----
 
 ## 📊 GitHub Stats
 ![Shrunali's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrunalisalian&show_icons=true&theme=radical)
