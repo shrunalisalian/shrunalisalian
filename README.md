@@ -1,6 +1,6 @@
 # Hi, I'm Shrunali 👋
 
-💻 Software Engineer – AI/ML | 🚀 Aspiring Top 1% SDE | 📍 Seattle  
+💻 Software Engineer – AI/ML | 📍 Seattle  
 
 I build intelligent systems at the intersection of **Computer Vision, NLP, and Agentic AI**.  
 Passionate about **deep learning, optimization, and assistive technologies**, with hands-on experience from startups to research labs.
@@ -13,6 +13,11 @@ Passionate about **deep learning, optimization, and assistive technologies**, wi
 - 📖 [Medium Blog](https://medium.com/@shrunalisalian97)  
 - 💻 [GitHub](https://github.com/shrunalisalian)  
 - 🧩 [LeetCode](https://leetcode.com/u/shrunali18/)  
+
+---
+## 🏆 LeetCode Achievements & Badges
+
+[![LeetCode Badge](https://leetcard.jacoblin.cool/shrunali18?theme=dark&font=Karma&ext=activity,badges,heatmap)](https://leetcode.com/u/shrunali18/)
 
 ---
 
