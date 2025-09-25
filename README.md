@@ -15,11 +15,6 @@ Passionate about **deep learning, optimization, and assistive technologies**, wi
 - 🧩 [LeetCode](https://leetcode.com/u/shrunali18/)  
 
 ---
-## 🏆 LeetCode Achievements & Badges
-
-[![LeetCode Badge](https://leetcard.jacoblin.cool/shrunali18?theme=dark&font=Karma&ext=activity,badges,heatmap)](https://leetcode.com/u/shrunali18/)
-
----
 
 ## 📊 GitHub Stats
 ![Shrunali's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrunalisalian&show_icons=true&theme=radical)
